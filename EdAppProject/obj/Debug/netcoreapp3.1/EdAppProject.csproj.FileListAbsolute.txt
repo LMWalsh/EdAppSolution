@@ -1,0 +1,11 @@
+C:\repos\EdAppSolution\EdAppProject\bin\Debug\netcoreapp3.1\EdAppProject.exe
+C:\repos\EdAppSolution\EdAppProject\bin\Debug\netcoreapp3.1\EdAppProject.deps.json
+C:\repos\EdAppSolution\EdAppProject\bin\Debug\netcoreapp3.1\EdAppProject.runtimeconfig.json
+C:\repos\EdAppSolution\EdAppProject\bin\Debug\netcoreapp3.1\EdAppProject.runtimeconfig.dev.json
+C:\repos\EdAppSolution\EdAppProject\bin\Debug\netcoreapp3.1\EdAppProject.dll
+C:\repos\EdAppSolution\EdAppProject\bin\Debug\netcoreapp3.1\EdAppProject.pdb
+C:\repos\EdAppSolution\EdAppProject\obj\Debug\netcoreapp3.1\EdAppProject.csprojAssemblyReference.cache
+C:\repos\EdAppSolution\EdAppProject\obj\Debug\netcoreapp3.1\EdAppProject.AssemblyInfoInputs.cache
+C:\repos\EdAppSolution\EdAppProject\obj\Debug\netcoreapp3.1\EdAppProject.AssemblyInfo.cs
+C:\repos\EdAppSolution\EdAppProject\obj\Debug\netcoreapp3.1\EdAppProject.dll
+C:\repos\EdAppSolution\EdAppProject\obj\Debug\netcoreapp3.1\EdAppProject.pdb
